@@ -1,0 +1,14 @@
+{
+    "name": "Bigwan.Bwuipackage.Editor.Tests",
+    "references": [
+        "Bigwan.Bwuipackage.Editor",
+        "Bigwan.Bwuipackage"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

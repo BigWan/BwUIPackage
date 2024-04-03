@@ -1,0 +1,11 @@
+{
+    "name": "Bigwan.Bwuipackage.Tests",
+    "references": [
+        "Bigwan.Bwuipackage"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}

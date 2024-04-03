@@ -1,0 +1,10 @@
+{
+    "name": "Bigwan.Bwuipackage.Editor",
+    "references": [
+      "Bigwan.Bwuipackage"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}
